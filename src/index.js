@@ -6,3 +6,8 @@ import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 registerServiceWorker();
+//component or view: something that writes html, multiple different components
+//what i want to happen:
+//1. create new component and it should porduce html
+
+//2. take component's html and put it on the page
